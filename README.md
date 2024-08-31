@@ -4,7 +4,7 @@ Ended - 06:11 PM (31st Aug)
 I have used create-react app for installing react boiler plate.
 Used Tailwind css for styling.
 Used Axios for api call
-Created custom hooks for separating the API call logic
+Created custom hooks for separating the API call logic,
 Used React icons in some places.
 
 
